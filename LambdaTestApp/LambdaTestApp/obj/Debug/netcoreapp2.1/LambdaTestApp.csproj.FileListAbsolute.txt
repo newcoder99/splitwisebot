@@ -1,0 +1,11 @@
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\bin\Debug\netcoreapp2.1\LambdaTestApp.deps.json
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\bin\Debug\netcoreapp2.1\LambdaTestApp.runtimeconfig.json
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\bin\Debug\netcoreapp2.1\LambdaTestApp.runtimeconfig.dev.json
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\bin\Debug\netcoreapp2.1\LambdaTestApp.dll
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\bin\Debug\netcoreapp2.1\LambdaTestApp.pdb
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\obj\Debug\netcoreapp2.1\LambdaTestApp.csprojAssemblyReference.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\obj\Debug\netcoreapp2.1\LambdaTestApp.csproj.CoreCompileInputs.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\obj\Debug\netcoreapp2.1\LambdaTestApp.AssemblyInfoInputs.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\obj\Debug\netcoreapp2.1\LambdaTestApp.AssemblyInfo.cs
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\obj\Debug\netcoreapp2.1\LambdaTestApp.dll
+C:\Users\vishals830\Desktop\Alexa\Projects\LambdaTestApp\LambdaTestApp\obj\Debug\netcoreapp2.1\LambdaTestApp.pdb

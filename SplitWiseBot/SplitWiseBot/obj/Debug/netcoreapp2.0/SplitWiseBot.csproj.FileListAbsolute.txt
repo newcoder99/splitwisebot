@@ -1,0 +1,10 @@
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\obj\Debug\netcoreapp2.0\SplitWiseBot.csproj.CoreCompileInputs.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\obj\Debug\netcoreapp2.0\SplitWiseBot.AssemblyInfoInputs.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\obj\Debug\netcoreapp2.0\SplitWiseBot.AssemblyInfo.cs
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\bin\Debug\netcoreapp2.0\SplitWiseBot.deps.json
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\bin\Debug\netcoreapp2.0\SplitWiseBot.runtimeconfig.json
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\bin\Debug\netcoreapp2.0\SplitWiseBot.runtimeconfig.dev.json
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\bin\Debug\netcoreapp2.0\SplitWiseBot.dll
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\bin\Debug\netcoreapp2.0\SplitWiseBot.pdb
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\obj\Debug\netcoreapp2.0\SplitWiseBot.dll
+C:\Users\vishals830\Desktop\Alexa\Projects\SplitWiseBot\SplitWiseBot\obj\Debug\netcoreapp2.0\SplitWiseBot.pdb

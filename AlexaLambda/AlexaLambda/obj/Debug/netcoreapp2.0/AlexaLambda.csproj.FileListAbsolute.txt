@@ -1,0 +1,11 @@
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.0\AlexaLambda.deps.json
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.0\AlexaLambda.runtimeconfig.json
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.0\AlexaLambda.runtimeconfig.dev.json
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.0\AlexaLambda.dll
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Debug\netcoreapp2.0\AlexaLambda.pdb
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.0\AlexaLambda.csproj.CoreCompileInputs.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.0\AlexaLambda.AssemblyInfoInputs.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.0\AlexaLambda.AssemblyInfo.cs
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.0\AlexaLambda.dll
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.0\AlexaLambda.pdb
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Debug\netcoreapp2.0\AlexaLambda.csprojAssemblyReference.cache

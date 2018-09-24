@@ -1,0 +1,11 @@
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Release\netcoreapp2.0\linux-x64\AlexaLambda.deps.json
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Release\netcoreapp2.0\linux-x64\AlexaLambda.runtimeconfig.json
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Release\netcoreapp2.0\linux-x64\AlexaLambda.runtimeconfig.dev.json
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Release\netcoreapp2.0\linux-x64\AlexaLambda.dll
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\bin\Release\netcoreapp2.0\linux-x64\AlexaLambda.pdb
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Release\netcoreapp2.0\linux-x64\AlexaLambda.csprojAssemblyReference.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Release\netcoreapp2.0\linux-x64\AlexaLambda.csproj.CoreCompileInputs.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Release\netcoreapp2.0\linux-x64\AlexaLambda.AssemblyInfoInputs.cache
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Release\netcoreapp2.0\linux-x64\AlexaLambda.AssemblyInfo.cs
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Release\netcoreapp2.0\linux-x64\AlexaLambda.dll
+C:\Users\vishals830\Desktop\Alexa\Projects\AlexaLambda\AlexaLambda\obj\Release\netcoreapp2.0\linux-x64\AlexaLambda.pdb
